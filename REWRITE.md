@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a template for generating a git hi
+This is a template for generating a git his
