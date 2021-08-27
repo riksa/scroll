@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a template for gene
+This is a template for gener
