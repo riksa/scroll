@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a temp
+This is a templ
