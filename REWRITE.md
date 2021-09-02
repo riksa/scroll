@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a templ
+This is a templa
