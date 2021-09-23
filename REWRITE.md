@@ -1,1 +1,1 @@
-# horizonta-scroller-tem
+# horizonta-scroller-temp
