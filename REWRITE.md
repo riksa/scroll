@@ -1,1 +1,1 @@
-# horizonta-sc
+# horizonta-scr
