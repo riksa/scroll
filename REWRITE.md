@@ -4,4 +4,4 @@ This is a template for generating a git history for
 
 ## Lorem Ipsum
 
-> Neque porro quisquam est qui dolorem ipsu
+> Neque porro quisquam est qui dolorem ipsum
