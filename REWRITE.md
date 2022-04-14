@@ -2,4 +2,4 @@
 This is a template for generating a git history for 
 [https://gitlab.com/riksa/horizontal-scroller](https://gitlab.com/riksa/horizontal-scroller)
 
-## Lorem I
+## Lorem Ip
