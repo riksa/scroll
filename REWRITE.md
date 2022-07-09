@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a template for generating a git hist
+This is a template for generating a git histo
