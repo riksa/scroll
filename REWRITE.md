@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a template for g
+This is a template for ge
