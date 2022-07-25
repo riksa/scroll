@@ -1,2 +1,2 @@
 # horizonta-scroller-template
-This is a template f
+This is a template fo
