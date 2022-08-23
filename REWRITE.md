@@ -1,1 +1,1 @@
-# horizonta-scrol
+# horizonta-scroll
