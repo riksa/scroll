@@ -1,1 +1,1 @@
-# horiz
+# horizo
